@@ -1,3 +1,4 @@
+***Still under training on Google Colab***
 \# AI Camouflage Detection
 
 
